@@ -11,7 +11,7 @@ Hi! 👋 I’m Jormaedes Luís, a software engineer focused on mastering the fun
 
 ## 🛠️ My technical background:
 
-- **Low-Level & Systems (42 Luanda):** C/C++, memory management, processes, signals, and the Linux environment.
+- **Low-Level & Systems (42 Luanda):** C/C++ • Algorithms • Data Structures • Memory Management • Linux • Shell • Problem Solving • System Programming • Peer-to-Peer Collaboration • Software Architecture • Code Optimization • Teamwork.
 - **Modern Web Development ([FullStackOpen](fullstackopen.com/en)):** JavaScript, React, Node, Express, HTML & CSS.
 - **Problem Solving:** Strong interest in algorithms, competitive programming, and the development of logic engines and applications.
 
@@ -36,9 +36,9 @@ Hi! 👋 I’m Jormaedes Luís, a software engineer focused on mastering the fun
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img width="47%" src="https://github-readme-stats-fast.vercel.app/api?username=jormaedes&theme=dark&show_icons=true"/>
-  <img width="50%" src="https://streak-stats.demolab.com/?user=jormaedes&theme=dark"/>
+  <img width="47%" src="https://github-readme-stats-fast.vercel.app/api?username=zacarias39&theme=dark&show_icons=true"/>
+  <img width="50%" src="https://streak-stats.demolab.com/?user=zacarias39&theme=dark"/>
 </p>
 <p align="center">
-  <img width="47%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jormaedes&hide_progress=true&theme=dark"/>
+  <img width="47%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zacarias39&hide_progress=true&theme=dark"/>
 </p>
